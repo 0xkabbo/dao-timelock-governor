@@ -1,0 +1,9 @@
+{
+  "name": "dao-timelock-governor",
+  "version": "1.0.0",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.4",
+    "ethers": "^6.10.0"
+  }
+}
